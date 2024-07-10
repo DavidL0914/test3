@@ -2,7 +2,7 @@
 
 # Continuous Documentation: Hosting Read the Docs on GitHub Pages
 
-This repo is a fork-ready base for your project's documentation. It lets you host a sphinx-generated site (with the Read the Docs theme) on GitHub Pages using GitHub Actions.
+TEST
 
 
 <p align="center">
