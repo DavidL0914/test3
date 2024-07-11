@@ -7,10 +7,10 @@ Welcome to helloWorld's documentation!
 ======================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+:maxdepth: 2
+:caption: Contents:
 
-   autodoc
+autodoc
 
 
 Indices and tables
